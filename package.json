@@ -1,0 +1,23 @@
+{
+  "name": "@cinema-ticketing/core",
+  "version": "1.0.0",
+  "description": "Core utilities and shared setup",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Yakov",
+    "email": "lavrinov.yackov@gmail.com"
+  },
+  "peerDependencies": {
+    "prettier": "^3.8.0"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-import": "^5.2.2"
+  },
+  "exports": {
+    "prettier": "./src/prettier.config.mjs"
+}
+  }
