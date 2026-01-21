@@ -1,6 +1,6 @@
 {
-  "name": "@cinema-ticketing/core",
-  "version": "1.0.0",
+  "name": "cinema-ticketing-core",
+  "version": "1.0.1",
   "description": "Core utilities and shared setup",
   "type": "module",
   "publishConfig": {
