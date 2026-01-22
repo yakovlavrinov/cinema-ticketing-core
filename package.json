@@ -1,6 +1,6 @@
 {
   "name": "cinema-ticketing-core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Core utilities and shared setup",
   "type": "module",
   "publishConfig": {
@@ -18,6 +18,6 @@
     "@trivago/prettier-plugin-sort-imports": "^5.2.2"
   },
   "exports": {
-    "prettier": "./src/prettier.config.mjs"
+    "./prettier": "./src/prettier.config.mjs"
 }
   }
